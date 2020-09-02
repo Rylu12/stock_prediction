@@ -1,6 +1,6 @@
 # stock_prediction
 A machine learning pipeline to train and predict stock price movement trends (momentum) using stock indicators
-More info at: https://rylu1.com/
+I wrote a blog post on this project here: https://rylu1.com/2020/08/29/machine-learning-pipeline-stock-price-trend-predictions/
 
 Demo1 is for creating and storing stock data + indicators in SQL database.
 
